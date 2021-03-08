@@ -8,8 +8,8 @@ import webbrowser
 
 # Add your gmail username and password here
 
-username = "support@websidev.com"
-password = "althlcnhvtadjvrn"
+username = "youremail@example.com"
+password = "your_gmail_password"
 
 # Edit to these arrays to add your own commands
 
